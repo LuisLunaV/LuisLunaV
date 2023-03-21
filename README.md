@@ -1,5 +1,6 @@
 - 👋 ¡Hola!, mi nombre es Luis Alfredo Luna Villa
-- eyes Me interesa la ciencia ficcion y la tecnologia
+- 🌱 Me interesa la ciencia ficcion y la tecnologia
+- 📫 Contacto: https://luislunav.github.io/LuisAlfredoLuna/
 
 <!--
 **LuisLunaV/LuisLunaV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
