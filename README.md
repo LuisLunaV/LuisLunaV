@@ -1,4 +1,5 @@
 - 👋 ¡Hola!, mi nombre es Luis Alfredo Luna Villa
+- eyes Me interesa la ciencia ficcion y la tecnologia
 
 <!--
 **LuisLunaV/LuisLunaV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
